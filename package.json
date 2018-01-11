@@ -1,0 +1,25 @@
+{
+  "name": "mvc",
+  "version": "1.0.0",
+  "description": "mvc pattern node app",
+  "main": "server.js",
+  "scripts": {
+    "test": "mvc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "naveen",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "method-override": "^2.3.10",
+    "mongoose": "^4.13.9",
+    "node": "^9.3.0"
+  }
+}
